@@ -1,2 +1,2 @@
 # DS-ML
-this file is for data science
+this file is for housing information
